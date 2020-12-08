@@ -242,6 +242,7 @@ public class MainClass {
 
 	public static void main(String[] args) throws Exception {
 		MainClass main = new MainClass();
+		System.err.println("Hello ssj!");
 		main.run(args);
 	}
 
